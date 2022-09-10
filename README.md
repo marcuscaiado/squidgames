@@ -1,5 +1,5 @@
 # squidgames
-Squid Games Theme Responsive Website
+Squid Games Netflixlike-Theme Responsive Website using HTML and CSS only
 
 
 https://marcuscaiado.github.io/squidgames/
